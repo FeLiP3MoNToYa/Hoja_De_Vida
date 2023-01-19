@@ -1,0 +1,22 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.Izquierda {
+  background-color: blue;
+  width: 25%;
+  height: 100vh;
+}
+
+.Derecha {
+  background-color: white;
+  background-size: cover;
+  backgroun-position: center;
+  width: 75%;
+  height: 100vh;
+}
+
+#Todo {
+  display: flex;
+}
